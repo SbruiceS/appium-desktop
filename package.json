@@ -115,7 +115,7 @@
   "dependencies": {
     "ansi-to-html": "^0.7.2",
     "antd": "~4.16.1",
-    "appium": "1.22.3",
+    "appium": "2.0.0",
     "appium-support": "^2.25.0",
     "bluebird": "^3.5.5",
     "connected-react-router": "^6.0.0",
@@ -123,7 +123,7 @@
     "electron-log": "^4.4.0",
     "electron-settings": "^2.2.4",
     "electron-updater": "^4.2.0",
-    "fix-path": "^3.0.0",
+    "fix-path": "^4.0.0",
     "font-awesome": "4.x",
     "history": "^4.7.2",
     "i18next": "^21.9.0",
